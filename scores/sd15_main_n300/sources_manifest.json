@@ -1,0 +1,4802 @@
+[
+ {
+  "k": 0,
+  "coco_id": 503755,
+  "caption": "a person on a tennis court in tennis wear",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 1,
+  "coco_id": 213605,
+  "caption": "A bus parked next to a white building with red trimming.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 2,
+  "coco_id": 30213,
+  "caption": "A kitchen filled with a stove top oven and a refrigerator.",
+  "orig_size": [
+   640,
+   449
+  ],
+  "crop_box": [
+   96,
+   0,
+   544,
+   448
+  ],
+  "resized": false
+ },
+ {
+  "k": 3,
+  "coco_id": 343076,
+  "caption": "A fluffy cat laying on an electronic device",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 4,
+  "coco_id": 342128,
+  "caption": "A man is holding a tennis racket while posing.",
+  "orig_size": [
+   488,
+   640
+  ],
+  "crop_box": [
+   20,
+   96,
+   468,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 5,
+  "coco_id": 28993,
+  "caption": "a couple of yellow poles are on the street",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 6,
+  "coco_id": 206838,
+  "caption": "two women in swimsuits riding horses in the water",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 7,
+  "coco_id": 239717,
+  "caption": "a man is holding a plate and smiling happily",
+  "orig_size": [
+   554,
+   640
+  ],
+  "crop_box": [
+   53,
+   96,
+   501,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 8,
+  "coco_id": 79144,
+  "caption": "Bear cubs play among the fallen tree limbs.",
+  "orig_size": [
+   640,
+   458
+  ],
+  "crop_box": [
+   96,
+   5,
+   544,
+   453
+  ],
+  "resized": false
+ },
+ {
+  "k": 9,
+  "coco_id": 318138,
+  "caption": "a girl is playing with a video game controller",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 10,
+  "coco_id": 273551,
+  "caption": "Several motorcycles that are parked on the side of the street.",
+  "orig_size": [
+   640,
+   457
+  ],
+  "crop_box": [
+   96,
+   4,
+   544,
+   452
+  ],
+  "resized": false
+ },
+ {
+  "k": 11,
+  "coco_id": 206218,
+  "caption": "A laptop computer sitting on a truck table.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 12,
+  "coco_id": 212573,
+  "caption": "A group of two people waiting to cross the street under an umbrella.",
+  "orig_size": [
+   640,
+   559
+  ],
+  "crop_box": [
+   96,
+   55,
+   544,
+   503
+  ],
+  "resized": false
+ },
+ {
+  "k": 13,
+  "coco_id": 27768,
+  "caption": "A bus which is part of the Metropolitan Transit System.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 14,
+  "coco_id": 414795,
+  "caption": "A herd of elephants walking into a large body of water.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 15,
+  "coco_id": 41635,
+  "caption": "Three cows standing on a grass field under a cloudy sky.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 16,
+  "coco_id": 516316,
+  "caption": "An antilope is eating grass in between two zebra.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 17,
+  "coco_id": 12748,
+  "caption": "A man and child next to a horse.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 18,
+  "coco_id": 337987,
+  "caption": "Colorful bird sitting on a branch of a tree.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 19,
+  "coco_id": 191471,
+  "caption": "The stop sign is visible for everyone to see.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 20,
+  "coco_id": 231169,
+  "caption": "The black and white locomotive is on the train tracks.",
+  "orig_size": [
+   640,
+   454
+  ],
+  "crop_box": [
+   96,
+   3,
+   544,
+   451
+  ],
+  "resized": false
+ },
+ {
+  "k": 21,
+  "coco_id": 166277,
+  "caption": "A cat drinking out of a glass on top of a table.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 22,
+  "coco_id": 416330,
+  "caption": "The cat is laying down squashing one side of its face.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 23,
+  "coco_id": 12576,
+  "caption": "A woman sitting at a table topped with pizza.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 24,
+  "coco_id": 29675,
+  "caption": "A plate topped with three hot dogs on top of a table.",
+  "orig_size": [
+   478,
+   640
+  ],
+  "crop_box": [
+   15,
+   96,
+   463,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 25,
+  "coco_id": 579158,
+  "caption": "a red and blue plan on the runway getting ready to get passengers",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 26,
+  "coco_id": 329542,
+  "caption": "A hand adding a cherry to some small tarts.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 27,
+  "coco_id": 60823,
+  "caption": "Some cows that are wandering around a lot of pigeons.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 28,
+  "coco_id": 578967,
+  "caption": "A monorail is going down the track with people on it.",
+  "orig_size": [
+   640,
+   469
+  ],
+  "crop_box": [
+   96,
+   10,
+   544,
+   458
+  ],
+  "resized": false
+ },
+ {
+  "k": 29,
+  "coco_id": 260266,
+  "caption": "The traffic signal is at the intersection near a large building.",
+  "orig_size": [
+   479,
+   640
+  ],
+  "crop_box": [
+   15,
+   96,
+   463,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 30,
+  "coco_id": 60449,
+  "caption": "A very nice looking deck area with a small table and a laptop.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 31,
+  "coco_id": 1532,
+  "caption": "A street scene with focus on the street signs on an overpass.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 32,
+  "coco_id": 407574,
+  "caption": "A green stand holding several bananas for sale.",
+  "orig_size": [
+   478,
+   640
+  ],
+  "crop_box": [
+   15,
+   96,
+   463,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 33,
+  "coco_id": 24610,
+  "caption": "A disorderly living area is free from decorative elements.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 34,
+  "coco_id": 176446,
+  "caption": "A yellow not book sitting on top of a desk next to a laptop.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 35,
+  "coco_id": 507235,
+  "caption": "well cooked food in a big bowl on a table",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 36,
+  "coco_id": 297022,
+  "caption": "a man and his friends are standing outside next to a truck",
+  "orig_size": [
+   640,
+   504
+  ],
+  "crop_box": [
+   96,
+   28,
+   544,
+   476
+  ],
+  "resized": false
+ },
+ {
+  "k": 37,
+  "coco_id": 139099,
+  "caption": "A street scene with a person on a motorcycle.",
+  "orig_size": [
+   640,
+   453
+  ],
+  "crop_box": [
+   96,
+   2,
+   544,
+   450
+  ],
+  "resized": false
+ },
+ {
+  "k": 38,
+  "coco_id": 407002,
+  "caption": "A man wearing snow gear poses for a photo while standing on skis",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 39,
+  "coco_id": 319534,
+  "caption": "A man wearing a t-shirt stands in the door way of a white bus.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 40,
+  "coco_id": 384850,
+  "caption": "A bathroom with a shower curtain that has four palm trees on it and a white tile floor.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 41,
+  "coco_id": 246308,
+  "caption": "A wooden desk with shelves that have action figures above it",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 42,
+  "coco_id": 368212,
+  "caption": "Baby brushing teeth while sitting on a toilet.",
+  "orig_size": [
+   478,
+   640
+  ],
+  "crop_box": [
+   15,
+   96,
+   463,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 43,
+  "coco_id": 292005,
+  "caption": "a bathroom with a tub and a shower curtain",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 44,
+  "coco_id": 532855,
+  "caption": "A man grinding his skateboard on a rail.",
+  "orig_size": [
+   640,
+   457
+  ],
+  "crop_box": [
+   96,
+   4,
+   544,
+   452
+  ],
+  "resized": false
+ },
+ {
+  "k": 45,
+  "coco_id": 78915,
+  "caption": "A tennis player hits a high ball in front of an audience.",
+  "orig_size": [
+   481,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 46,
+  "coco_id": 382696,
+  "caption": "A kitchen under construction with a trashcan and stove.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 47,
+  "coco_id": 345385,
+  "caption": "Young couple happily snuggling on their bed together",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 48,
+  "coco_id": 255165,
+  "caption": "a desk filled with some paperwork, a laptop and a computer with two monitors",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 49,
+  "coco_id": 358195,
+  "caption": "A little girl wearing pajamas is riding on a skateboard.",
+  "orig_size": [
+   483,
+   640
+  ],
+  "crop_box": [
+   17,
+   96,
+   465,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 50,
+  "coco_id": 395801,
+  "caption": "A street lined with cones with people up and down the sidewalk.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 51,
+  "coco_id": 417249,
+  "caption": "A woman is carrying many packages in an office building",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 52,
+  "coco_id": 447200,
+  "caption": "Two small dogs on leashes walking on a brick pathway.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 53,
+  "coco_id": 157756,
+  "caption": "A clock tower by street next to cars at night.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 54,
+  "coco_id": 404568,
+  "caption": "A seagull standing on the sand of a beach",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 55,
+  "coco_id": 486046,
+  "caption": "a giraffe staring right into the camera",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 56,
+  "coco_id": 569059,
+  "caption": "A wooden desk sitting in a living room with a monitor on top of it.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 57,
+  "coco_id": 525286,
+  "caption": "A large clock  is on the wall where the paint is peeling.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 58,
+  "coco_id": 174371,
+  "caption": "A woman in camouflage showing a device to young women.",
+  "orig_size": [
+   640,
+   511
+  ],
+  "crop_box": [
+   96,
+   31,
+   544,
+   479
+  ],
+  "resized": false
+ },
+ {
+  "k": 59,
+  "coco_id": 543047,
+  "caption": "A scene of an apartment with a dining table and a couple of couches.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 60,
+  "coco_id": 346703,
+  "caption": "A man and woman standing over a dinner table with a cake.",
+  "orig_size": [
+   550,
+   640
+  ],
+  "crop_box": [
+   51,
+   96,
+   499,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 61,
+  "coco_id": 360137,
+  "caption": "A person leaning up against a metal rail while holding a rainbow colored umbrella.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 62,
+  "coco_id": 68833,
+  "caption": "A kitchen that has carpeted floors and wooden cabinets.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 63,
+  "coco_id": 544565,
+  "caption": "A with plate with a chocolate pastry and whip cream.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 64,
+  "coco_id": 546826,
+  "caption": "A pink and green marker, next to another object.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 65,
+  "coco_id": 359219,
+  "caption": "Two pizzas sitting in pie pans on top of  a stove.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 66,
+  "coco_id": 341196,
+  "caption": "A man riding a wave on top of a surfboard.",
+  "orig_size": [
+   640,
+   451
+  ],
+  "crop_box": [
+   96,
+   1,
+   544,
+   449
+  ],
+  "resized": false
+ },
+ {
+  "k": 67,
+  "coco_id": 492878,
+  "caption": "A bathroom sink and its reflection in the mirror.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 68,
+  "coco_id": 184978,
+  "caption": "a man that is snowboarding down a snowy hill",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 69,
+  "coco_id": 428218,
+  "caption": "A couple of people standing on top of a green yard.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 70,
+  "coco_id": 162130,
+  "caption": "A wooden bench is sitting next to a grassy field.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 71,
+  "coco_id": 251065,
+  "caption": "A black toilet in a tiled public bathroom stall.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 72,
+  "coco_id": 170739,
+  "caption": "a couple of elephants are standing behind a fence",
+  "orig_size": [
+   640,
+   514
+  ],
+  "crop_box": [
+   96,
+   33,
+   544,
+   481
+  ],
+  "resized": false
+ },
+ {
+  "k": 73,
+  "coco_id": 39670,
+  "caption": "A train traveling through rural countryside lined with trees.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 74,
+  "coco_id": 162581,
+  "caption": "A man wearing a white tshirt hits a tennis ball.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 75,
+  "coco_id": 95069,
+  "caption": "A european city in nice a sunny bright day",
+  "orig_size": [
+   600,
+   450
+  ],
+  "crop_box": [
+   76,
+   1,
+   524,
+   449
+  ],
+  "resized": false
+ },
+ {
+  "k": 76,
+  "coco_id": 424162,
+  "caption": "a couple of women that have a dog on a leash",
+  "orig_size": [
+   640,
+   512
+  ],
+  "crop_box": [
+   96,
+   32,
+   544,
+   480
+  ],
+  "resized": false
+ },
+ {
+  "k": 77,
+  "coco_id": 489924,
+  "caption": "A girl on top of skate board on a street.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 78,
+  "coco_id": 139872,
+  "caption": "A dog laying on grass near a flying disc.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 79,
+  "coco_id": 155179,
+  "caption": "an upclose photo of a cake with chocolate pieces",
+  "orig_size": [
+   640,
+   468
+  ],
+  "crop_box": [
+   96,
+   10,
+   544,
+   458
+  ],
+  "resized": false
+ },
+ {
+  "k": 80,
+  "coco_id": 123480,
+  "caption": "A man taking a selfie while brushing his teeth and looking in the mirror",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 81,
+  "coco_id": 323355,
+  "caption": "A young kid is holding a box of pizza.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 82,
+  "coco_id": 385205,
+  "caption": "A very cute cat laying on a rug.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 83,
+  "coco_id": 126107,
+  "caption": "A bird that is flying over the sand.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 84,
+  "coco_id": 30494,
+  "caption": "A black and brown dog digging at an object on a dirt ground.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 85,
+  "coco_id": 23666,
+  "caption": "A toilet and bathtub in a dark room with abnormal plumbing.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 86,
+  "coco_id": 134856,
+  "caption": "Three people on horseback ride along the beach while waves come in.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 87,
+  "coco_id": 279769,
+  "caption": "A peeled banana on a table next to an unpeeled banana.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 88,
+  "coco_id": 276921,
+  "caption": "Two teddy ears are hanging in a window.",
+  "orig_size": [
+   469,
+   640
+  ],
+  "crop_box": [
+   10,
+   96,
+   458,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 89,
+  "coco_id": 196843,
+  "caption": "A school bus covered in art and a sign.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 90,
+  "coco_id": 35770,
+  "caption": "a couple of pans you would use to pee in",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 91,
+  "coco_id": 465129,
+  "caption": "A person adjusting a  metal object hanging from a ceiling.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 92,
+  "coco_id": 340015,
+  "caption": "A large pizza with meatballs and tomatoes on top of it.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 93,
+  "coco_id": 68765,
+  "caption": "A keyboard, mouse, and wires on a desk.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 94,
+  "coco_id": 303305,
+  "caption": "A large red and white bus on a city street.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 95,
+  "coco_id": 297562,
+  "caption": "A little baby is getting a haircut in a pink chair.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 96,
+  "coco_id": 314251,
+  "caption": "A parade of motorcycles is going through a group of tall trees.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 97,
+  "coco_id": 151051,
+  "caption": "A man skiing down a snow covered slope.",
+  "orig_size": [
+   640,
+   478
+  ],
+  "crop_box": [
+   96,
+   15,
+   544,
+   463
+  ],
+  "resized": false
+ },
+ {
+  "k": 98,
+  "coco_id": 152870,
+  "caption": "A giraffe standing on a grass covered field.",
+  "orig_size": [
+   512,
+   640
+  ],
+  "crop_box": [
+   32,
+   96,
+   480,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 99,
+  "coco_id": 375078,
+  "caption": "A dried black flower in a long, tall black & white vase.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 100,
+  "coco_id": 469067,
+  "caption": "this is a person sleeping on a bed with a cat",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 101,
+  "coco_id": 402473,
+  "caption": "there are two cats that are laying with each other",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 102,
+  "coco_id": 17029,
+  "caption": "a dog jumping to catch a frisbee in a yard",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 103,
+  "coco_id": 394510,
+  "caption": "A small child on a skateboard photoshopped over a street image.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 104,
+  "coco_id": 25393,
+  "caption": "a couple of men in ties are outside",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 105,
+  "coco_id": 163290,
+  "caption": "A giraffe standing next to a zebra on a field.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 106,
+  "coco_id": 498747,
+  "caption": "Guy sitting down and using his cell during the party",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 107,
+  "coco_id": 20571,
+  "caption": "a group of boats parked next to a dock in the water",
+  "orig_size": [
+   539,
+   640
+  ],
+  "crop_box": [
+   45,
+   96,
+   493,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 108,
+  "coco_id": 463842,
+  "caption": "A small bed with lots of bottles underneath",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 109,
+  "coco_id": 561366,
+  "caption": "There is a phone on top of a calculator",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 110,
+  "coco_id": 435880,
+  "caption": "A refrigerator next to a red wall in the kitchen.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 111,
+  "coco_id": 488673,
+  "caption": "A couple of people at a table in a kitchen.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 112,
+  "coco_id": 289960,
+  "caption": "A person standing on top of a beach flying a kite.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 113,
+  "coco_id": 229553,
+  "caption": "A man sitting on top of a skateboard on a street.",
+  "orig_size": [
+   640,
+   488
+  ],
+  "crop_box": [
+   96,
+   20,
+   544,
+   468
+  ],
+  "resized": false
+ },
+ {
+  "k": 114,
+  "coco_id": 560880,
+  "caption": "Two horses plowing the land as a man directs them",
+  "orig_size": [
+   640,
+   508
+  ],
+  "crop_box": [
+   96,
+   30,
+   544,
+   478
+  ],
+  "resized": false
+ },
+ {
+  "k": 115,
+  "coco_id": 416758,
+  "caption": "A herd of black and white cattle standing on a lush green hillside.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 116,
+  "coco_id": 312213,
+  "caption": "A cat sitting by a laptop but staring at a person.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 117,
+  "coco_id": 468632,
+  "caption": "A group of young men standing on top of a soccer field.",
+  "orig_size": [
+   640,
+   479
+  ],
+  "crop_box": [
+   96,
+   15,
+   544,
+   463
+  ],
+  "resized": false
+ },
+ {
+  "k": 118,
+  "coco_id": 245576,
+  "caption": "An orange cat sitting on top of a computer desk.",
+  "orig_size": [
+   640,
+   472
+  ],
+  "crop_box": [
+   96,
+   12,
+   544,
+   460
+  ],
+  "resized": false
+ },
+ {
+  "k": 119,
+  "coco_id": 276707,
+  "caption": "A street sign prohibiting vehicles in front of a store.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 120,
+  "coco_id": 433134,
+  "caption": "A close up of a black and white cat in the grass.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 121,
+  "coco_id": 477689,
+  "caption": "A photo of a women smiling posing for a picture.",
+  "orig_size": [
+   459,
+   640
+  ],
+  "crop_box": [
+   5,
+   96,
+   453,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 122,
+  "coco_id": 128675,
+  "caption": "A man holding one water ski at the lake.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 123,
+  "coco_id": 11122,
+  "caption": "A red stop sign behind a chain link fence.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 124,
+  "coco_id": 417043,
+  "caption": "A bench sitting on the side of a road.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 125,
+  "coco_id": 196759,
+  "caption": "A Frito Lay delivery van parked outside in a parking lot.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 126,
+  "coco_id": 350003,
+  "caption": "A firetruck is near a brown building off a side street that veers from a main road.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 127,
+  "coco_id": 520264,
+  "caption": "a man and woman standing side by side in a kitchen next to a window",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 128,
+  "coco_id": 25603,
+  "caption": "A girl with some food and drink at a table.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 129,
+  "coco_id": 233238,
+  "caption": "A group of people gathered around a table filled with food.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 130,
+  "coco_id": 426836,
+  "caption": "Someone flying a kite right above the trees.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 131,
+  "coco_id": 117525,
+  "caption": "A man in front of a Christmas tree with his dog.",
+  "orig_size": [
+   500,
+   500
+  ],
+  "crop_box": [
+   26,
+   26,
+   474,
+   474
+  ],
+  "resized": false
+ },
+ {
+  "k": 132,
+  "coco_id": 169169,
+  "caption": "A banner in a metropolitan area reading \"spring in the city\".",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 133,
+  "coco_id": 394199,
+  "caption": "A woman sitting on top of a red motorcycle.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 134,
+  "coco_id": 215723,
+  "caption": "Two men smiling and wearing yellow jackets behind construction markers.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 135,
+  "coco_id": 325483,
+  "caption": "Two men play a game with Wii remotes.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 136,
+  "coco_id": 187271,
+  "caption": "An old fashioned refrigerator sitting in front of wooden cabinets.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 137,
+  "coco_id": 480944,
+  "caption": "A traffic light sitting on the side of a road.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 138,
+  "coco_id": 532690,
+  "caption": "A woman playing a Wii game with other people.",
+  "orig_size": [
+   528,
+   640
+  ],
+  "crop_box": [
+   40,
+   96,
+   488,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 139,
+  "coco_id": 378116,
+  "caption": "A person riding a wave on top of a surfboard.",
+  "orig_size": [
+   640,
+   454
+  ],
+  "crop_box": [
+   96,
+   3,
+   544,
+   451
+  ],
+  "resized": false
+ },
+ {
+  "k": 140,
+  "coco_id": 469174,
+  "caption": "The plane was flying high near the flag in the air",
+  "orig_size": [
+   640,
+   460
+  ],
+  "crop_box": [
+   96,
+   6,
+   544,
+   454
+  ],
+  "resized": false
+ },
+ {
+  "k": 141,
+  "coco_id": 143998,
+  "caption": "A group of carrots with an organically grown strip tag around them.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 142,
+  "coco_id": 202445,
+  "caption": "A cat facing away from the camera, among blankets on a bed.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 143,
+  "coco_id": 428562,
+  "caption": "a small sheep is standing in a pin",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 144,
+  "coco_id": 8277,
+  "caption": "The meal consists of chopped chicken with cheese and brocolli.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 145,
+  "coco_id": 554838,
+  "caption": "Several breakfast foods are on top of a refrigerator.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 146,
+  "coco_id": 343453,
+  "caption": "A woman stands on a snow covered hill.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 147,
+  "coco_id": 106881,
+  "caption": "A bird sitting perched on a tree branch.",
+  "orig_size": [
+   640,
+   533
+  ],
+  "crop_box": [
+   96,
+   42,
+   544,
+   490
+  ],
+  "resized": false
+ },
+ {
+  "k": 148,
+  "coco_id": 322968,
+  "caption": "A clock is situated atop a colorful tower.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 149,
+  "coco_id": 90003,
+  "caption": "Two dogs who are playing with a Frisbee.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 150,
+  "coco_id": 489611,
+  "caption": "A young boy holding Nintendo Wii game controllers.",
+  "orig_size": [
+   640,
+   622
+  ],
+  "crop_box": [
+   96,
+   87,
+   544,
+   535
+  ],
+  "resized": false
+ },
+ {
+  "k": 151,
+  "coco_id": 224664,
+  "caption": "A group of people flying kites on top of a sandy beach.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 152,
+  "coco_id": 25394,
+  "caption": "Bartender opening a bottle of wine while patron waits patiently",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 153,
+  "coco_id": 562197,
+  "caption": "Pictures of different types of prepared food containing beans.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 154,
+  "coco_id": 2006,
+  "caption": "a big purple bus parked in a parking spot",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 155,
+  "coco_id": 523100,
+  "caption": "A person fills jars with orange slices from a large bowl.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 156,
+  "coco_id": 557884,
+  "caption": "A green plant with hanging branches on a wall.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 157,
+  "coco_id": 384949,
+  "caption": "A bridge spanning the width of a river.",
+  "orig_size": [
+   640,
+   457
+  ],
+  "crop_box": [
+   96,
+   4,
+   544,
+   452
+  ],
+  "resized": false
+ },
+ {
+  "k": 158,
+  "coco_id": 119641,
+  "caption": "A herd of elephants walking down a river with people riding on their backs.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 159,
+  "coco_id": 156076,
+  "caption": "A couple of men and one young man eating pizza.",
+  "orig_size": [
+   640,
+   478
+  ],
+  "crop_box": [
+   96,
+   15,
+   544,
+   463
+  ],
+  "resized": false
+ },
+ {
+  "k": 160,
+  "coco_id": 448448,
+  "caption": "Two giraffes grazing on some green leaves in the field.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 161,
+  "coco_id": 247917,
+  "caption": "Two adult men stands with a group of little league baseball players for a group photo",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 162,
+  "coco_id": 32941,
+  "caption": "A street that has all the traffic stopped at a traffic light.",
+  "orig_size": [
+   458,
+   640
+  ],
+  "crop_box": [
+   5,
+   96,
+   453,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 163,
+  "coco_id": 24144,
+  "caption": "A pizza sitting on top of a pizza box covered in cheese.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 164,
+  "coco_id": 127660,
+  "caption": "A girl with a black eye and pig tails sits in a suitcase.",
+  "orig_size": [
+   640,
+   513
+  ],
+  "crop_box": [
+   96,
+   32,
+   544,
+   480
+  ],
+  "resized": false
+ },
+ {
+  "k": 165,
+  "coco_id": 192047,
+  "caption": "A white sink in a corner underneath a small mirror and light.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 166,
+  "coco_id": 404923,
+  "caption": "A baseball player holding a baseball bat is getting filmed by a camera man.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 167,
+  "coco_id": 112298,
+  "caption": "The man holds a ping pong paddle under the shelf on a wall.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 168,
+  "coco_id": 309484,
+  "caption": "A dog having his teeth brushed with a novelty electric toothbrush.",
+  "orig_size": [
+   533,
+   640
+  ],
+  "crop_box": [
+   42,
+   96,
+   490,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 169,
+  "coco_id": 269314,
+  "caption": "A cat sitting on top of a banana tree.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 170,
+  "coco_id": 51938,
+  "caption": "A person on skis does a trick on a rail.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 171,
+  "coco_id": 497628,
+  "caption": "A bedroom with a bed that has an ornate frame.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 172,
+  "coco_id": 581100,
+  "caption": "Two giraffes and several other large animals roam a tropical zoo paddock.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 173,
+  "coco_id": 154000,
+  "caption": "A small white tow truck parked to another small white tow truck.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 174,
+  "coco_id": 365745,
+  "caption": "A black bomb squad truck driving down a  road.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 175,
+  "coco_id": 363207,
+  "caption": "A newly married couple sharing a piece of there wedding cake.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 176,
+  "coco_id": 84664,
+  "caption": "Plate of food with meats, potatoes, eggs, and fruit.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 177,
+  "coco_id": 365766,
+  "caption": "A kitchen area with a stove, sink and microwave.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 178,
+  "coco_id": 308753,
+  "caption": "an animal laying down on top of some rocks.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 179,
+  "coco_id": 458992,
+  "caption": "a woman poses in front of a giant pizza",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 180,
+  "coco_id": 66038,
+  "caption": "The father and daughter are under an umbrella on the beach.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 181,
+  "coco_id": 455981,
+  "caption": "A white toilet that does not have it's seat down.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 182,
+  "coco_id": 140658,
+  "caption": "A brick building with a tall clock tower beside it.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 183,
+  "coco_id": 222735,
+  "caption": "A remote control on a wooden table in front of a television.",
+  "orig_size": [
+   474,
+   640
+  ],
+  "crop_box": [
+   13,
+   96,
+   461,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 184,
+  "coco_id": 56545,
+  "caption": "A gray bird is standing on small brown branch.",
+  "orig_size": [
+   505,
+   640
+  ],
+  "crop_box": [
+   28,
+   96,
+   476,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 185,
+  "coco_id": 100283,
+  "caption": "A stop sign on the corner in front of a row of stores.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 186,
+  "coco_id": 293390,
+  "caption": "A VERY NICE BATHROOM IN THE MIDDLE OF A REMODEL",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 187,
+  "coco_id": 318080,
+  "caption": "two different bears fight with each other behind a log",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 188,
+  "coco_id": 147415,
+  "caption": "A woman is taking notes in front of her laptop",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 189,
+  "coco_id": 94852,
+  "caption": "A mother looks after a baby elephant in the wild.",
+  "orig_size": [
+   640,
+   512
+  ],
+  "crop_box": [
+   96,
+   32,
+   544,
+   480
+  ],
+  "resized": false
+ },
+ {
+  "k": 190,
+  "coco_id": 463522,
+  "caption": "A horse pulling  carriage travels through a busy area in a city",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 191,
+  "coco_id": 394206,
+  "caption": "A group of people riding in the back of a truck.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 192,
+  "coco_id": 579902,
+  "caption": "A person riding a motorcycle down a street.",
+  "orig_size": [
+   556,
+   640
+  ],
+  "crop_box": [
+   54,
+   96,
+   502,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 193,
+  "coco_id": 335328,
+  "caption": "A couple of people riding waves on top of boards.",
+  "orig_size": [
+   512,
+   640
+  ],
+  "crop_box": [
+   32,
+   96,
+   480,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 194,
+  "coco_id": 314914,
+  "caption": "A two sign sitting on the side of a road.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 195,
+  "coco_id": 494188,
+  "caption": "A black bird sitting next to a couple of people in chairs.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 196,
+  "coco_id": 129135,
+  "caption": "Yellow Train stopped at the station in front of a bench.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 197,
+  "coco_id": 521052,
+  "caption": "A decorated truck is parked at a curb near a building.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 198,
+  "coco_id": 134886,
+  "caption": "A large jetliner flying over a dry grass field.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 199,
+  "coco_id": 77396,
+  "caption": "These two cats are playing in a room that has a large TV and a laptop computer.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 200,
+  "coco_id": 52565,
+  "caption": "a cow stares as it stands next to a body of water",
+  "orig_size": [
+   640,
+   458
+  ],
+  "crop_box": [
+   96,
+   5,
+   544,
+   453
+  ],
+  "resized": false
+ },
+ {
+  "k": 201,
+  "coco_id": 74733,
+  "caption": "two flatbread pieces covered with different ingredients in between a flight of beers",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 202,
+  "coco_id": 357748,
+  "caption": "A pink city bus at a bus stop.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 203,
+  "coco_id": 161032,
+  "caption": "A woman holding a red and white umbrella while standing in a cave.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 204,
+  "coco_id": 269942,
+  "caption": "Vehicles on a street near a green traffic light.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 205,
+  "coco_id": 81766,
+  "caption": "A large black dog with long hair standing on steps.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 206,
+  "coco_id": 409268,
+  "caption": "A stuffed teddy bear covered in dirt on the ground.",
+  "orig_size": [
+   511,
+   640
+  ],
+  "crop_box": [
+   31,
+   96,
+   479,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 207,
+  "coco_id": 322895,
+  "caption": "A living room that has a bunch of different couches.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 208,
+  "coco_id": 451144,
+  "caption": "a couple of people on skis sit on top of a snowy hill",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 209,
+  "coco_id": 279541,
+  "caption": "a bunch of pizzas are on display under a case",
+  "orig_size": [
+   478,
+   640
+  ],
+  "crop_box": [
+   15,
+   96,
+   463,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 210,
+  "coco_id": 243204,
+  "caption": "A person is holding a spatula near slices of bread on a stove.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 211,
+  "coco_id": 254016,
+  "caption": "A row of doughnuts being passed through a fryer.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 212,
+  "coco_id": 356531,
+  "caption": "a woman siting at a restaurant table with a plate of mexican food on it",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 213,
+  "coco_id": 547144,
+  "caption": "A laptop next to two computers, keyboards and some mouses.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 214,
+  "coco_id": 250619,
+  "caption": "A woman sits under the shade of an umbrella at the beach.",
+  "orig_size": [
+   640,
+   481
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 215,
+  "coco_id": 61171,
+  "caption": "A herd of black and white cows eating dry grass.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 216,
+  "coco_id": 113051,
+  "caption": "A boat traveling into a water filled tunnel.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 217,
+  "coco_id": 442306,
+  "caption": "A girl in a jacket and boots with a black umbrella.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 218,
+  "coco_id": 402720,
+  "caption": "A trio of men drinking wine at a restaurant table",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 219,
+  "coco_id": 579321,
+  "caption": "The person walking the dog has dressed it in a torn shirt.",
+  "orig_size": [
+   640,
+   498
+  ],
+  "crop_box": [
+   96,
+   25,
+   544,
+   473
+  ],
+  "resized": false
+ },
+ {
+  "k": 220,
+  "coco_id": 165500,
+  "caption": "a couple of animals walk through the grass",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 221,
+  "coco_id": 170893,
+  "caption": "A dog is standing next to a toilet playing with tissue",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 222,
+  "coco_id": 57725,
+  "caption": "Buildings with a clock and a crane over head are in this picture.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 223,
+  "coco_id": 478474,
+  "caption": "A truck that is sitting in the street.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 224,
+  "coco_id": 242060,
+  "caption": "a plate of pastry on a wood table and a glass of drink",
+  "orig_size": [
+   640,
+   459
+  ],
+  "crop_box": [
+   96,
+   5,
+   544,
+   453
+  ],
+  "resized": false
+ },
+ {
+  "k": 225,
+  "coco_id": 95899,
+  "caption": "A red stop sign next to a blue street sign.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 226,
+  "coco_id": 520659,
+  "caption": "A white tent with a row of surfboards sitting under it.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 227,
+  "coco_id": 545219,
+  "caption": "A double decker bus with neon lights at night.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 228,
+  "coco_id": 31749,
+  "caption": "A demonic looking chucky like doll standing next to a white clock.",
+  "orig_size": [
+   640,
+   640
+  ],
+  "crop_box": [
+   96,
+   96,
+   544,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 229,
+  "coco_id": 529568,
+  "caption": "A big fancy glass chandelier hanging in a small kitchen.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 230,
+  "coco_id": 429598,
+  "caption": "An interesting kitchen renovation with brick and wood",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 231,
+  "coco_id": 491757,
+  "caption": "A cat sitting on top of a bed.",
+  "orig_size": [
+   640,
+   479
+  ],
+  "crop_box": [
+   96,
+   15,
+   544,
+   463
+  ],
+  "resized": false
+ },
+ {
+  "k": 232,
+  "coco_id": 377670,
+  "caption": "Teddy bears are re-enacting soldiers on the beach with others looking on.",
+  "orig_size": [
+   487,
+   640
+  ],
+  "crop_box": [
+   19,
+   96,
+   467,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 233,
+  "coco_id": 542625,
+  "caption": "A bird sits on a parking meter with several parked cars in the street.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 234,
+  "coco_id": 416104,
+  "caption": "A group of people sitting under umbrellas drinking beer.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 235,
+  "coco_id": 141821,
+  "caption": "A close-up of a misshapen piece of pizza and a can of soda.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 236,
+  "coco_id": 516677,
+  "caption": "People standing and sitting on snow with skis and mountain",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 237,
+  "coco_id": 153343,
+  "caption": "two big stuffed bears sitting behind a chained fenced",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 238,
+  "coco_id": 255824,
+  "caption": "A chocolate frosted doughnut sitting on top of a plate.",
+  "orig_size": [
+   640,
+   478
+  ],
+  "crop_box": [
+   96,
+   15,
+   544,
+   463
+  ],
+  "resized": false
+ },
+ {
+  "k": 239,
+  "coco_id": 570456,
+  "caption": "A living room filled with furniture and a table.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 240,
+  "coco_id": 331799,
+  "caption": "A woman standing in front of a box handing a woman a bag of food.",
+  "orig_size": [
+   640,
+   464
+  ],
+  "crop_box": [
+   96,
+   8,
+   544,
+   456
+  ],
+  "resized": false
+ },
+ {
+  "k": 241,
+  "coco_id": 169076,
+  "caption": "A television is on a tv stand next to a bureau.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 242,
+  "coco_id": 142324,
+  "caption": "A person on a motor bike on a street.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 243,
+  "coco_id": 73118,
+  "caption": "Two brown teddy bears sitting side by side.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 244,
+  "coco_id": 170595,
+  "caption": "A plate with a peanut butter sandwich, ham, and tomatoes.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 245,
+  "coco_id": 478420,
+  "caption": "Two woman leaning against a wall wearing baby slings.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 246,
+  "coco_id": 301061,
+  "caption": "A person is moving green hay towards an elephant that is inside the back of a white truck.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 247,
+  "coco_id": 18193,
+  "caption": "A woman in green sweater eating a hotdog by campfire.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 248,
+  "coco_id": 21839,
+  "caption": "a person walking across the street with a traffic light above",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 249,
+  "coco_id": 146667,
+  "caption": "A woman digging through the storage compartment on her moped.",
+  "orig_size": [
+   640,
+   539
+  ],
+  "crop_box": [
+   96,
+   45,
+   544,
+   493
+  ],
+  "resized": false
+ },
+ {
+  "k": 250,
+  "coco_id": 872,
+  "caption": "A couple of baseball player standing on a field.",
+  "orig_size": [
+   621,
+   640
+  ],
+  "crop_box": [
+   86,
+   96,
+   534,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 251,
+  "coco_id": 184321,
+  "caption": "A train traveling down tracks next to lights.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 252,
+  "coco_id": 367386,
+  "caption": "A living room with some empty couches in it",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 253,
+  "coco_id": 414034,
+  "caption": "A kid sitting on a bed with a remote.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 254,
+  "coco_id": 383337,
+  "caption": "A hand reaching into a box of donuts on a counter.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 255,
+  "coco_id": 482719,
+  "caption": "The fruit is placed in a bowl out in the open to be eaten",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 256,
+  "coco_id": 17436,
+  "caption": "A man sitting on a bench with a tall building behind him.",
+  "orig_size": [
+   481,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 257,
+  "coco_id": 79651,
+  "caption": "a close up of two bananas with bottles in the background",
+  "orig_size": [
+   640,
+   478
+  ],
+  "crop_box": [
+   96,
+   15,
+   544,
+   463
+  ],
+  "resized": false
+ },
+ {
+  "k": 258,
+  "coco_id": 559348,
+  "caption": "PEOPLE ARE SITTING IN THE STANDS WATCHING A BASEBALL GAME",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 259,
+  "coco_id": 439715,
+  "caption": "A man riding a brown horse in uniform next to tall green trees.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 260,
+  "coco_id": 311394,
+  "caption": "A infant holding a baby toothbrush in his hand looking at it.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 261,
+  "coco_id": 275392,
+  "caption": "A person riding a brown horse with blonde hair in a green field.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 262,
+  "coco_id": 170191,
+  "caption": "Man dressed in leopard robe next to a bed.",
+  "orig_size": [
+   640,
+   531
+  ],
+  "crop_box": [
+   96,
+   41,
+   544,
+   489
+  ],
+  "resized": false
+ },
+ {
+  "k": 263,
+  "coco_id": 140286,
+  "caption": "A white horse drawn carriage in front of a yellow building.",
+  "orig_size": [
+   640,
+   521
+  ],
+  "crop_box": [
+   96,
+   36,
+   544,
+   484
+  ],
+  "resized": false
+ },
+ {
+  "k": 264,
+  "coco_id": 562448,
+  "caption": "A white bus is driving down the street",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 265,
+  "coco_id": 21604,
+  "caption": "A man in a suit is wearing a lit up tie.",
+  "orig_size": [
+   512,
+   640
+  ],
+  "crop_box": [
+   32,
+   96,
+   480,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 266,
+  "coco_id": 106266,
+  "caption": "Steak and crab cakes served with grilled peaches.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 267,
+  "coco_id": 305695,
+  "caption": "Zebras are grazing on grass by a car.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 268,
+  "coco_id": 137576,
+  "caption": "All of the cows are poking their heads out, eating some hay.",
+  "orig_size": [
+   640,
+   563
+  ],
+  "crop_box": [
+   96,
+   57,
+   544,
+   505
+  ],
+  "resized": false
+ },
+ {
+  "k": 269,
+  "coco_id": 318455,
+  "caption": "A table topped with three trays filled with cakes and desserts.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 270,
+  "coco_id": 29187,
+  "caption": "A man riding a horse drawn carriage on a race track.",
+  "orig_size": [
+   640,
+   491
+  ],
+  "crop_box": [
+   96,
+   21,
+   544,
+   469
+  ],
+  "resized": false
+ },
+ {
+  "k": 271,
+  "coco_id": 132375,
+  "caption": "a glass vase with three pink flowers and a drink",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 272,
+  "coco_id": 509656,
+  "caption": "A zebra standing in tall grass near a building.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 273,
+  "coco_id": 97278,
+  "caption": "Young man on top of a snowboard wearing maroon jacket.",
+  "orig_size": [
+   457,
+   640
+  ],
+  "crop_box": [
+   4,
+   96,
+   452,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 274,
+  "coco_id": 290768,
+  "caption": "A kitchen with a counter, window, stove and cutlery.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 275,
+  "coco_id": 540414,
+  "caption": "A group of people are sitting outside an outdoor market.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 276,
+  "coco_id": 326627,
+  "caption": "A building that has a rainbow above it.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 277,
+  "coco_id": 365207,
+  "caption": "rear view mirror reflection showing a dog in the back seat",
+  "orig_size": [
+   640,
+   588
+  ],
+  "crop_box": [
+   96,
+   70,
+   544,
+   518
+  ],
+  "resized": false
+ },
+ {
+  "k": 278,
+  "coco_id": 221155,
+  "caption": "a couple of animals walking around a farm",
+  "orig_size": [
+   640,
+   512
+  ],
+  "crop_box": [
+   96,
+   32,
+   544,
+   480
+  ],
+  "resized": false
+ },
+ {
+  "k": 279,
+  "coco_id": 447314,
+  "caption": "A woman flies a kite near a young child.",
+  "orig_size": [
+   640,
+   458
+  ],
+  "crop_box": [
+   96,
+   5,
+   544,
+   453
+  ],
+  "resized": false
+ },
+ {
+  "k": 280,
+  "coco_id": 531134,
+  "caption": "A traffic light with a sad face on the red light.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 281,
+  "coco_id": 505169,
+  "caption": "A toilet next to a chain shower stall in a bathroom.",
+  "orig_size": [
+   480,
+   640
+  ],
+  "crop_box": [
+   16,
+   96,
+   464,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 282,
+  "coco_id": 211042,
+  "caption": "there is a cat that is drinking out of the toilet",
+  "orig_size": [
+   458,
+   640
+  ],
+  "crop_box": [
+   5,
+   96,
+   453,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 283,
+  "coco_id": 293858,
+  "caption": "A sandwich on toasted bread, with a salad and a bottle of water.",
+  "orig_size": [
+   500,
+   451
+  ],
+  "crop_box": [
+   26,
+   1,
+   474,
+   449
+  ],
+  "resized": false
+ },
+ {
+  "k": 284,
+  "coco_id": 546964,
+  "caption": "A room filled with furniture and very large rugs.",
+  "orig_size": [
+   640,
+   478
+  ],
+  "crop_box": [
+   96,
+   15,
+   544,
+   463
+  ],
+  "resized": false
+ },
+ {
+  "k": 285,
+  "coco_id": 18150,
+  "caption": "a man holding a piece of pizza in front of a kid",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 286,
+  "coco_id": 99039,
+  "caption": "Plates  of food and glasses of wine sitting on a table",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 287,
+  "coco_id": 78565,
+  "caption": "Sail boats sail over a body of water while people stand near the shoreline.",
+  "orig_size": [
+   640,
+   499
+  ],
+  "crop_box": [
+   96,
+   25,
+   544,
+   473
+  ],
+  "resized": false
+ },
+ {
+  "k": 288,
+  "coco_id": 432898,
+  "caption": "The man is flying his kite in the sky.",
+  "orig_size": [
+   500,
+   500
+  ],
+  "crop_box": [
+   26,
+   26,
+   474,
+   474
+  ],
+  "resized": false
+ },
+ {
+  "k": 289,
+  "coco_id": 410456,
+  "caption": "a surfing instructor teaches students with surfboards on a beach in front of large hotel buildings.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 290,
+  "coco_id": 273760,
+  "caption": "A man standing on top of a tennis court holding a racquet.",
+  "orig_size": [
+   467,
+   640
+  ],
+  "crop_box": [
+   9,
+   96,
+   457,
+   544
+  ],
+  "resized": false
+ },
+ {
+  "k": 291,
+  "coco_id": 392818,
+  "caption": "A dog in a leash harness posing for a photo.",
+  "orig_size": [
+   500,
+   451
+  ],
+  "crop_box": [
+   26,
+   1,
+   474,
+   449
+  ],
+  "resized": false
+ },
+ {
+  "k": 292,
+  "coco_id": 283717,
+  "caption": "A microwave sitting on top of a wooden shelf.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 293,
+  "coco_id": 37670,
+  "caption": "A man holding holding a giant remote control.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 294,
+  "coco_id": 361506,
+  "caption": "This skateboarder is riding the cityscape at night when traffic is minimal.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 295,
+  "coco_id": 115245,
+  "caption": "A table topped with bags of luggage and purses.",
+  "orig_size": [
+   612,
+   612
+  ],
+  "crop_box": [
+   82,
+   82,
+   530,
+   530
+  ],
+  "resized": false
+ },
+ {
+  "k": 296,
+  "coco_id": 273711,
+  "caption": "A table topped with plates, bowls and containers of food.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 297,
+  "coco_id": 241677,
+  "caption": "The pack mules carrying loads on their backs are ascending the stairway.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ },
+ {
+  "k": 298,
+  "coco_id": 210099,
+  "caption": "An orange cat sunning itself on a lawn chair.",
+  "orig_size": [
+   640,
+   538
+  ],
+  "crop_box": [
+   96,
+   45,
+   544,
+   493
+  ],
+  "resized": false
+ },
+ {
+  "k": 299,
+  "coco_id": 557172,
+  "caption": "A bathroom sink and mirror reflecting the shower and bathtub.",
+  "orig_size": [
+   640,
+   480
+  ],
+  "crop_box": [
+   96,
+   16,
+   544,
+   464
+  ],
+  "resized": false
+ }
+]

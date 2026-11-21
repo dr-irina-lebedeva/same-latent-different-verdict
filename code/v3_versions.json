@@ -1,0 +1,11 @@
+{
+ "torch": "2.8.0+cu128",
+ "diffusers": "0.42.1",
+ "python": "3.12.3",
+ "cons_model": "openai/consistency-decoder",
+ "cons_seeds": "3000+i (main), 4000+i, 5000+i (seed check)",
+ "commfor": "OwensLab/commfor-model-384",
+ "commfor_timm": "vit_small_patch16_384.augreg_in21k_ft_in1k",
+ "device": "cuda",
+ "timm": "1.0.31"
+}

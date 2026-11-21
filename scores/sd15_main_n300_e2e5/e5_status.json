@@ -1,0 +1,6 @@
+{
+ "repo_commit": "c6a9f898782fb466b29af01f21960b67415afb0e",
+ "demo_max_abs_diff": 6.299999999903605e-06,
+ "repro_median_abs_diff_sd": 0.0,
+ "passed": true
+}

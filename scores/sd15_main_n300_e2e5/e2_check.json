@@ -1,0 +1,10 @@
+{
+ "n": 40,
+ "median_abs_diff_sd": 0.0,
+ "spearman": 1.0,
+ "max_abs_diff": 0.0,
+ "passed": true,
+ "compat_psnr_first20": 23.25756825679969,
+ "compat_psnr_reference": 23.243993847521196,
+ "compat_passed": true
+}

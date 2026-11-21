@@ -1,0 +1,7 @@
+{
+ "ran": true,
+ "repo_commit": "c6a9f898782fb466b29af01f21960b67415afb0e",
+ "weights_md5": "f3f53fa647848b16cf81c913f148a198",
+ "demo_max_abs_diff": 6.299999999903605e-06,
+ "preprocessing": "official main_bfree.py: ToTensor + config norm, whole 448x448 image, no crop/resize; score = fake logit"
+}

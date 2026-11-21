@@ -1,0 +1,12 @@
+{
+ "univfd": "ok",
+ "npr": "ok",
+ "probe_clip": "ok",
+ "probe_dino": "ok",
+ "preprocessing": {
+  "univfd/probe_clip": "center crop 224 at native res, no resize, CLIP norm",
+  "probe_dino": "center crop 224 at native res, no resize, ImageNet norm",
+  "npr": "full 448 image, no resize, ImageNet norm"
+ },
+ "probe_split": "split by source index: k < N/2 train, k >= N/2 test; all variants of one source stay in the same split; trained on untouched real vs gen/orig only"
+}

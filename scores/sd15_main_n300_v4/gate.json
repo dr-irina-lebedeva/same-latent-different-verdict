@@ -1,0 +1,135 @@
+{
+ "R0_photo_ids": {
+  "n": 300,
+  "same_order": 300,
+  "ok": true
+ },
+ "R1_real_photos": {
+  "univfd": {
+   "n": 300,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  },
+  "npr": {
+   "n": 300,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  }
+ },
+ "R3_generated_orig": {
+  "univfd": {
+   "n": 300,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  },
+  "npr": {
+   "n": 300,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  }
+ },
+ "R3_generated_taesd": {
+  "univfd": {
+   "n": 300,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  },
+  "npr": {
+   "n": 300,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  }
+ },
+ "R2_psnr_real_enc": {
+  "orig": {
+   "n": 300,
+   "med_abs_db": 0.0,
+   "max_abs_db": 0.0
+  },
+  "ftmse": {
+   "n": 300,
+   "med_abs_db": 0.0,
+   "max_abs_db": 0.0
+  },
+  "taesd": {
+   "n": 300,
+   "med_abs_db": 0.0,
+   "max_abs_db": 0.0
+  }
+ },
+ "R4_commfor": {
+  "gen/orig": {
+   "n": 50,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  },
+  "gen/cons": {
+   "n": 50,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 0.9999999999999998
+  },
+  "real_enc/cons": {
+   "n": 50,
+   "med_abs_sd": 0.0,
+   "max_abs_sd": 0.0,
+   "rho": 1.0
+  }
+ },
+ "R5_model_revisions": {
+  "OwensLab/commfor-model-384": {
+   "frozen": "6076002bf0d9dd37537f965ee2f06f826c333b61",
+   "now": "6076002bf0d9dd37537f965ee2f06f826c333b61",
+   "same": true
+  },
+  "facebook/dinov2-base": {
+   "frozen": "f9e44c814b77203eaa57a6bdbbd535f21ede1415",
+   "now": "f9e44c814b77203eaa57a6bdbbd535f21ede1415",
+   "same": true
+  },
+  "madebyollin/taesd": {
+   "frozen": "614f76814bbe30edbe2e627ace1c2234c81a2c0e",
+   "now": "614f76814bbe30edbe2e627ace1c2234c81a2c0e",
+   "same": true
+  },
+  "openai/clip-vit-large-patch14": {
+   "frozen": "32bd64288804d66eefd0ccbe215aa642df71cc41",
+   "now": "32bd64288804d66eefd0ccbe215aa642df71cc41",
+   "same": true
+  },
+  "openai/consistency-decoder": {
+   "frozen": "63b7a48896d92b6f56772f4111d0860b1bee3dd3",
+   "now": "63b7a48896d92b6f56772f4111d0860b1bee3dd3",
+   "same": true
+  },
+  "sd-legacy/stable-diffusion-v1-5": {
+   "frozen": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+   "now": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+   "same": true
+  },
+  "stabilityai/sd-vae-ft-mse": {
+   "frozen": "31f26fdeee1355a5c34592e401dd41e45d25a493",
+   "now": "31f26fdeee1355a5c34592e401dd41e45d25a493",
+   "same": true
+  }
+ },
+ "verdict": {
+  "photos_identical": true,
+  "encoded_reconstructions_identical": true,
+  "consistency_decoder_on_photos_reproduced": true,
+  "generation_reproduced": true,
+  "generation_near": true,
+  "consistency_decoder_on_generated_reproduced": true,
+  "model_revisions_same": true,
+  "quality_comparable": true,
+  "same_images_as_paper": true,
+  "near_same_images": true
+ }
+}

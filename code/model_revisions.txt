@@ -1,0 +1,11 @@
+OwensLab/commfor-model-384 6076002bf0d9dd37537f965ee2f06f826c333b61
+facebook/dinov2-base f9e44c814b77203eaa57a6bdbbd535f21ede1415
+madebyollin/taesd 614f76814bbe30edbe2e627ace1c2234c81a2c0e
+openai/clip-vit-large-patch14 32bd64288804d66eefd0ccbe215aa642df71cc41
+openai/consistency-decoder 63b7a48896d92b6f56772f4111d0860b1bee3dd3
+sd-legacy/stable-diffusion-v1-5 451f4fe16113bff5a5d2269ed5ad43b0592e9a14
+stabilityai/sd-vae-ft-mse 31f26fdeee1355a5c34592e401dd41e45d25a493
+477100745713bcc957beb2b40859536859b6483fd6301b3b9293151b194c7847  cache/univfd_fc_weights.pth
+3939297e9399e0b992f87211610769d87d899de50d56da0204d6cbda2d483a53  cache/NPR-DeepfakeDetection/NPR.pth
+b67a91555ce786a6d0463ff0cb2b0b874d1c3f971b0e3febd2ae5618a80f7e8a  cache/NPR-DeepfakeDetection/model_epoch_last_3090.pth
+command: run_v3.sh full  N=300 offset=100 calib=1000

@@ -1,0 +1,1 @@
+{"model": "stabilityai/stable-diffusion-xl-base-1.0", "steps": 30, "guidance": 5.0, "res": 1024, "seed": "5000+k", "scheduler": "EulerDiscreteScheduler", "s_per_image": 5.8886802013715105}

@@ -1,0 +1,21 @@
+{
+ "decode": {
+  "taesdxl_scale_psnr": {
+   "scaled": 29.30917074360657,
+   "unscaled": 10.283967592637277
+  },
+  "taesdxl_takes_scaled_latent": true,
+  "psnr_fp16fix_vs_orig_1024": 47.08174410874902,
+  "psnr_taesdxl_vs_orig_1024": 30.410911914432404,
+  "psnr_roundtrip_orig_vs_real": 25.227611718488756
+ },
+ "taesdxl_ok": true,
+ "fp16fix_near_identity": true,
+ "repro_median_abs_diff_sd": {
+  "aeroblade": 0.0,
+  "npr": 0.0,
+  "commfor": 0.0
+ },
+ "repro_ok": true,
+ "passed": true
+}
